@@ -31,13 +31,13 @@
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23F7B600.svg?style=for-the-badge&logo=java&logoColor=white)
-![Network Technologies(CCNA)](https://img.shields.io/badge/Сетевые%20технологии%20(CCNA)-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Алгоритмы-%23FF6347.svg?style=for-the-badge&logo=algorithm&logoColor=white)
+![Network Technologies (CCNA)](https://img.shields.io/badge/Network%20Technologies%20(CCNA)-%23000000.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6347.svg?style=for-the-badge&logo=algorithm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Operating System](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Databases](https://img.shields.io/badge/Базы%20данных-%23FF5722.svg?style=for-the-badge&logo=database&logoColor=white)
+![Operating Systems (Linux)](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Databases](https://img.shields.io/badge/Databases-%23FF5722.svg?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
