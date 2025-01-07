@@ -1,7 +1,22 @@
 # Hi 👋, I'm Daulet  
 **A passionate Software Engineer / Enthusiast Engineer, from Kazakhstan.**
 
-- 🌱 I’m currently learning: (React), (Developing Back-End Apps with Node.js and Express), (Cloud Native, DevOps, Agile, and NoSQL), (Containers w/ Docker, Kubernetes & OpenShift), (Application Development using Microservices and Serverless), (Node.js & MongoDB: Developing Back-end Database Applications).
+### 🌱 Currently Learning
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%230089D6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23005C97.svg?style=for-the-badge&logo=agile&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%2300ADD8.svg?style=for-the-badge&logo=nosql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=microservices&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 - 👨‍💻 All of my projects are available at https://github.com/myrzadaksh 
 - 💬 Ask me about Front-end development, ML, Algorithms in Java.
 - 📫 How to reach me sovetovd965@gmail.com 
