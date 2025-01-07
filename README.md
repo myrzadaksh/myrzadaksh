@@ -1,5 +1,5 @@
 # Hi 👋, I'm Daulet  
-**A passionate Software Engineer / Enthusiast Engineer, from Kazakhstan.**
+**A passionate Software Engineer / Enthusiast Engineer from Kazakhstan.**
 
 ### 🌱 Currently Learning
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
