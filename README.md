@@ -5,12 +5,12 @@
 - 👨‍💻 All of my projects are available at https://github.com/myrzadaksh 
 - 💬 Ask me about Front-end development, ML, Algorithms in Java.
 - 📫 How to reach me sovetovd965@gmail.com 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can spend hours debugging but celebrate every fixed bug like I won the lottery!
 
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](ваша ссылка на LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daulet-sovetov/)
 
 ---
 
