@@ -1,8 +1,8 @@
 # Hi 👋, I'm Daulet  
-**A passionate Software Engineering, from Kazakhstan.**
+**A passionate Software Engineer / Enthusiast Engineer, from Kazakhstan.**
 
-- 🌱 I’m currently learning React, Developing Back-End Apps with Node.js and Express, Cloud Native, DevOps, Agile, and NoSQL, Containers w/ Docker, Kubernetes & OpenShift, Application Development using Microservices and Serverless, Node.js & MongoDB: Developing Back-end Database Applications
-- 👨‍💻 All of my projects are available at (https://github.com/myrzadaksh) .
+- 🌱 I’m currently learning: (React), (Developing Back-End Apps with Node.js and Express), (Cloud Native, DevOps, Agile, and NoSQL), (Containers w/ Docker, Kubernetes & OpenShift), (Application Development using Microservices and Serverless), (Node.js & MongoDB: Developing Back-end Database Applications).
+- 👨‍💻 All of my projects are available at https://github.com/myrzadaksh 
 - 💬 Ask me about Front-end development, ML, Algorithms in Java.
 - 📫 How to reach me sovetovd965@gmail.com 
 - ⚡ Fun fact: 
