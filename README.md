@@ -1,11 +1,11 @@
-# Hi 👋, I'm [Ваше Имя]  
-**A passionate [ваша роль, например, Backend Developer или ML Enthusiast] from [ваша страна].**
+# Hi 👋, I'm Daulet  
+**A passionate Software Engineering, from Kazakhstan.**
 
-- 🌱 I’m currently learning [названия технологий или инструментов]  
-- 👨‍💻 All of my projects are available at [ссылка на ваш GitHub или портфолио]  
-- 💬 Ask me about [например, Python, Data Science, etc.]  
-- 📫 How to reach me [ваш email]  
-- ⚡ Fun fact: [что-то интересное о вас]
+- 🌱 I’m currently learning React, Developing Back-End Apps with Node.js and Express, Cloud Native, DevOps, Agile, and NoSQL, Containers w/ Docker, Kubernetes & OpenShift, Application Development using Microservices and Serverless, Node.js & MongoDB: Developing Back-end Database Applications
+- 👨‍💻 All of my projects are available at (https://github.com/myrzadaksh) .
+- 💬 Ask me about Front-end development, ML, Algorithms in Java.
+- 📫 How to reach me sovetovd965@gmail.com 
+- ⚡ Fun fact: 
 
 ---
 
