@@ -3,12 +3,20 @@
 
 ### 🌱 Currently Learning
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2300A97B.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23FF9900.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-%230089D6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23005C97.svg?style=for-the-badge&logo=agile&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%2300ADD8.svg?style=for-the-badge&logo=nosql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=microservices&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-%2300ADD8.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
