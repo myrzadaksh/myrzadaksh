@@ -9,7 +9,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2300A97B.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23FF9900.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
