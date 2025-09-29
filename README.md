@@ -1,4 +1,4 @@
-e# Hi 👋, I'm Daulet  
+# Hi 👋, I'm Daulet  
 **A passionate Software Engineer / Enthusiast Engineer from Kazakhstan.**
 
 ### 🌱 Currently Learning
