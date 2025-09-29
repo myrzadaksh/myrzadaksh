@@ -1,4 +1,4 @@
-# Hi 👋, I'm Daulet  
+e# Hi 👋, I'm Daulet  
 **A passionate Software Engineer / Enthusiast Engineer from Kazakhstan.**
 
 ### 🌱 Currently Learning
@@ -18,7 +18,7 @@
 
 ---
 - 👨‍💻 All of my projects are available at https://github.com/myrzadaksh 
-- 📫 How to reach me sovetovd965@gmail.com 
+- 📫 How to reach me daulet.sovetov.dev@outlook.com
 - ⚡ Fun fact: I can spend hours debugging but celebrate every fixed bug like I won the lottery!
 
 ---
