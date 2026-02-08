@@ -20,6 +20,9 @@ Commercial & internship experience in Poland and Kazakhstan (remote).
 ![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![React-Leaflet](https://img.shields.io/badge/React--Leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Fingerpose](https://img.shields.io/badge/Fingerpose-111111.svg?style=for-the-badge&logo=hand&logoColor=white)
+
 
 ![REST%20API](https://img.shields.io/badge/REST%20API-%2300ADD8.svg?style=for-the-badge&logoColor=white)
 
