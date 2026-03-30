@@ -13,6 +13,9 @@ Commercial & internship experience in Poland and Kazakhstan (remote).
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![JSON Web Tokens](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ![Redux%20Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack%20Query](https://img.shields.io/badge/TanStack%20Query%20(React%20Query)-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -32,7 +35,6 @@ Commercial & internship experience in Poland and Kazakhstan (remote).
 
 ![SQL](https://img.shields.io/badge/SQL-%230074A2.svg?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
