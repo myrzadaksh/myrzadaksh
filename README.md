@@ -1,7 +1,7 @@
 # Hi 👋, I'm Daulet Sovetov  
-**Frontend Developer (React / TypeScript) from Kazakhstan, based in Poland (Kraków).**
+**Fullstack developer with MERN stack from Kazakhstan, based in Poland (Kraków).**
 
-I build responsive SPAs, reusable UI components, and integrate REST APIs based on Figma designs.  
+Fullstack Developer specialized in building scalable web applications from database design to polished UI. 
 Commercial & internship experience in Poland and Kazakhstan (remote).
 
 ---
