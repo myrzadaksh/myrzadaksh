@@ -17,7 +17,6 @@ Commercial & internship experience in Poland and Kazakhstan (remote).
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-![Redux%20Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack%20Query](https://img.shields.io/badge/TanStack%20Query%20(React%20Query)-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React%20Router](https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
